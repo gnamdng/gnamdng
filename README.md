@@ -1,8 +1,14 @@
+# Nam DANG
+
 ## Welcome to my GitHub Profile! 👋
+
+I'm a data-driven student currently building my career into Data Science one step at a time. I am enrolled in a Master of Sciences degree in Data Analytics and Management at INSEEC.
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7C118&width=435&lines=Exploring+the+world+of+Data+!)](https://git.io/typing-svg)
 
 <!--
 **gnamdng/gnamdng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
