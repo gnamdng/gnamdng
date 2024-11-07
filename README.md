@@ -2,7 +2,7 @@
 
 ## Welcome to my GitHub Profile! 👋
 
-I'm a data-driven student currently building my career into Data Science one step at a time. I am enrolled in a Master of Sciences degree in Data Analytics and Management at INSEEC.
+I'm a data-driven student currently building my career into Data Science one step at a time. I am enrolled in a Master of Sciences degree in Data Analytics and Management at INSEEC. 
 
 
 
