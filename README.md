@@ -12,6 +12,7 @@ I am interested in any subjects related to _**Big Data, Machine Learning and AI.
 <img align="left" alt="Java" width="50px" style="padding-right:10 px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg"/>
 <img align="left" alt="Java" width="50px" style="padding-right:10 px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Light.svg"/>
 
+<br><br>
 ## **What I am currently working on**
 - 🔭 Deep Learning
 - 🌱 Data Visualization
