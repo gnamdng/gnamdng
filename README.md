@@ -3,13 +3,12 @@
 ## Welcome to my GitHub Profile!👋
 
 My name is (Laurent) Nam DANG ! I'm a data-driven student currently building my career into Data Science one step at a time.  
-I am interested in any subjects related to _**Big Data, Machine Learning and AI.**_ aspiring to become
-Data Scientist/Data Analyst.
+I am interested in any subjects related to _**Big Data, Machine Learning and AI.**_ aspiring to become Data Scientist/Data Analyst.
 
 **Adventurer** and **Knowledge Seeker**! 📖 Passionate about photography and travel 📷✈️
 
-Tools I use:
-src/python/python_128x128.png
+__**Tools I use:**__
+
 
 
 
