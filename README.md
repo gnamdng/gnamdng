@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=F7B602&width=435&lines=I'm+Nam+DANG+!)](https://git.io/typing-svg)
 ## Welcome to my GitHub Profile!👋
-My name is (Laurent) Nam DANG ! I'm a data-driven student currently building my career into Data Science one step at a time.  
+My name is (Laurent) Nam DANG ! I'm a French data-driven student currently building my career into Data Science one step at a time.  
 I am interested in any subjects related to _**Big Data, Machine Learning and AI.**_ aspiring to become Data Scientist/Data Analyst.
 
 **Adventurer** and **Knowledge Seeker**! 📖 Passionate about photography and travel 📷✈️
@@ -9,7 +9,18 @@ I am interested in any subjects related to _**Big Data, Machine Learning and AI.
 ## **Tools I use:**
 <img align="left" alt="Java" width="50px" style="padding-right:10 px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg"/>
 
+## **What I am currently working on
+- 🔭 Deep Learning
+- 🌱 Data Visualization
+- ✨ New Tools & Softwares : Dataiku
 
+## **About my data portfolio**
+I made the choice of using only one repository for my data portfolio! Check its content : I worked on several projects outside the scope of my studies.
+
+Some examples : 
+- ETL Pipeline in GCP using Data Fusion and Airflow
+- Neural Network for Churn
+- Some EDAs and Visualizations
 
 <!--
 **gnamdng/gnamdng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
