@@ -16,9 +16,7 @@ I am interested in any subjects related to _**Big Data, Machine Learning and AI.
 - ✨ New Tools & Softwares : Dataiku
 
 ### **About my data portfolio**
-I made the choice of using only one repository for my data portfolio! Check its content : I worked on several projects outside the scope of my studies.
-
-Some examples : 
+I made the choice of using only one repository for my data portfolio! Check its content : I worked on several projects outside the scope of my studies. Some examples : 
 - ETL Pipeline in GCP using Data Fusion and Airflow
 - Neural Network for Churn
 - Some EDAs and Visualizations
