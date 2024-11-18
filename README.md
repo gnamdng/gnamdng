@@ -1,4 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=F7B602&width=435&lines=I'm+Nam+DANG+!)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=F7B602&width=435&lines=I'm+Nam+DANG+!" alt="Typing SVG" />
+  </a>
+</div>
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=F73416&width=435&lines=Exploring+the+World+of+Data+!" alt="Typing SVG" />
