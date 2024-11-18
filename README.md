@@ -1,5 +1,3 @@
-![Python-Dark](https://github.com/user-attachments/assets/6c10e371-3905-42dd-bfd1-1f436aefb5dd)[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7C118&width=435&lines=Exploring+the+world+of+Data+!)](https://git.io/typing-svg)
-
 ## Welcome to my GitHub Profile!👋
 
 My name is (Laurent) Nam DANG ! I'm a data-driven student currently building my career into Data Science one step at a time.  
