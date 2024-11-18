@@ -1,4 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=F7B602&width=435&lines=I'm+Nam+DANG+!)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=F73416&width=435&lines=Exploring+the+World+of+Data+!" alt="Typing SVG" />
+  </a>
+</div>
 ### Welcome to my GitHub Profile!👋
 My name is (Laurent) Nam DANG ! I'm a data-driven student currently building my career into Data Science one step at a time.  
 I am interested in any subjects related to _**Big Data, Machine Learning and AI.**_ aspiring to become Data Scientist/Data Analyst.
