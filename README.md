@@ -13,13 +13,10 @@ I am interested in any subjects related to _**Big Data, Machine Learning and AI*
 ### **What I am currently working on**
 - 🔭 Deep Learning
 - 🌱 Data Visualization
-- ✨ New Tools & Softwares : Dataiku
+- ✨ New Tools & Softwares : Dataiku, AWS
 
 ### **About my data portfolio**
-I made the choice of using only one repository for my data portfolio! I worked on several projects outside the scope of my studies such as : 
-- ETL Pipeline in GCP using Data Fusion and Airflow
-- Neural Network for Churn
-- Some EDAs and Visualizations
+This portfolio will regroup personal and extra curricular projects; business-related with data.
 
 <!--
 **gnamdng/gnamdng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
