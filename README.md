@@ -15,7 +15,7 @@ I am interested in any subjects related to _**Business, Data Science, Machine Le
 - 🌱 Data Visualization
 - ✨ New Tools & Softwares : Dataiku, AWS
 
-### **About my data portfolio**
-This portfolio will regroup personal and extra curricular projects; business-related with data.
+### **About my portfolio**
+This portfolio will regroup personal and extra curricular projects; business-related with or without data.
 
 
