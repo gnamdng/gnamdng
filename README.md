@@ -1,7 +1,7 @@
 
 ## Welcome to my GitHub Profile!
 My name is Nam DANG. I'm a French data-driven student currently building my career into Data Science in an business environment. 
-I am interested in any subjects related to _**Big Data, Machine Learning and AI**_. Aspiring to Data/Business Analyst.
+I am interested in any subjects related to _**Business, Data Science, Machine Learning and AI**_. Aspiring Data/Business Analyst.
 
 **Adventurer** and **Knowledge Seeker**! 📖 Passionate about photography, fashion and travel 📷✈️
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=F73416&width=435&lines=Exploring+the+World+of+Data+!)](https://git.io/typing-svg)
