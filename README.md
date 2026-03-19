@@ -9,6 +9,7 @@ I am interested in any subjects related to _**Business, Data Science, Machine Le
 <img align="left" alt="Java" width="50px" style="padding-right:10 px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg"/>
 <img align="left" alt="Java" width="50px" style="padding-right:10 px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Light.svg"/>
 <br><br>
+<br><br>
 Python, SQL, Tableau, Power BI, Salesforce
 <br><br>
 ### **What I am currently working on**
